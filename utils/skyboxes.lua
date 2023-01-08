@@ -144,3 +144,5 @@
 			Up = 'rbxassetid://2651437350',
 		},
 	} 
+
+return Skyboxes
