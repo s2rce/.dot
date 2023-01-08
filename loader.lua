@@ -5,40 +5,8 @@
 
 
 
-
-
-
-
-
-
 This code is obfuscated for security reasons.
 This is usually done to protect intellectual property, as it can make it more difficult for others to copy or steal the ideas or algorithms contained in the code.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
