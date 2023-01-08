@@ -1,7 +1,49 @@
 --[[
 
+
+
+
+
+
+
+
+
+
+
+
 This code is obfuscated for security reasons.
-Obfuscation is the process of making a program or piece of code difficult for humans to understand. This is usually done to protect intellectual property, as it can make it more difficult for others to copy or steal the ideas or algorithms contained in the code.
+This is usually done to protect intellectual property, as it can make it more difficult for others to copy or steal the ideas or algorithms contained in the code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]]
 
