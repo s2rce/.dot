@@ -27,7 +27,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/s2rce/.dot/2b9eb371d9
             - Arrows Size
             - Chams
             - Chams Visible Only
-    - Environment
-        - Global Shadows
-        - Skybox Changer
+        - Environment
+            - Global Shadows
+            - Skybox Changer
 ```
