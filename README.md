@@ -16,10 +16,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/s2rce/.dot/2b9eb371d9
             - Enabled
             - Boxes
             - Box Fill
+            - Box Type: 2D, 3D
             - Health Bar
             - Health Text
             - Name
-            - Weapon
             - Distance
             - Tracer
             - Arrows
@@ -27,7 +27,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/s2rce/.dot/2b9eb371d9
             - Arrows Size
             - Chams
             - Chams Visible Only
+        - Camera
+            - Custom FOV
         - Environment
             - Global Shadows
             - Skybox Changer
+    - Misc
+        - 
 ```
