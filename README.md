@@ -1,12 +1,12 @@
 # .dot
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris bibendum sed elit vitae mattis. Nullam in ullamcorper mauris. Vivamus viverra, ante pulvinar mollis maximus, lorem.
 
-### Loadstring
+## Loadstring
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/s2rce/.dot/2b9eb371d96a5b3c717991dfa037a9c2418cded5/loader.lua"))()
 ```
 
-### Features
+## Features
 ```markdown
 # Universal
     - Main
@@ -35,3 +35,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/s2rce/.dot/2b9eb371d9
     - Misc
         - 
 ```
+
+![Hello](https://raw.githubusercontent.com/s2rce/.dot/7e0063afd3c0df254a1295d64d1f473a2ea68f40/media/Banner_Transparent_White_1.png)
