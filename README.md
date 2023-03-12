@@ -9,8 +9,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/s2rce/.dot/2b9eb371d9
 ## Features
 ```markdown
 # Universal
-    - Main
-        - Players join/leave logging
     - Visuals
         - Enemies/Teammates ESP
             - Enabled
@@ -31,9 +29,16 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/s2rce/.dot/2b9eb371d9
             - Custom FOV
         - Environment
             - Global Shadows
+            - No Fog
             - Skybox Changer
+        - Character Changer
+            - Face
+            - Right Leg
     - Misc
-        - 
+        - Movement
+            - CFrame Speed
+            - Spin
+            - GPU Saver
 ```
 
 ![Hello](https://raw.githubusercontent.com/s2rce/.dot/7e0063afd3c0df254a1295d64d1f473a2ea68f40/media/Banner_Transparent_White_1.png)
